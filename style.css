@@ -24,3 +24,22 @@ body{
 .pos{
 	text-align: center;
 }
+.iphone{
+	height:352px; 
+	width:352px;
+	z-index: 3;
+	position: absolute;
+}
+.macbook{
+	height:450px;
+	width:750px;
+	z-index: 1;
+	position: absolute;
+}
+.ipad{
+	height:336px;
+	width:226px;
+	z-index: 2;
+	position: absolute;
+	left:300px;
+}
